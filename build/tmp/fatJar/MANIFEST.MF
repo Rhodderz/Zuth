@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Zuth TwitchBot Server
+Implementation-Version: 1.0
+Main-Class: uk.theborde.zuth.Main
+
